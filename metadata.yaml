@@ -1,0 +1,89 @@
+_repo: Paul-and-Virginia-from-the-French-of-J.B.H.-de-Saint-Pierre_10859
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Williams, Helen Maria
+    alias: Williams, Helena Maria
+    birthdate: 1762
+    deathdate: 1827
+    gutenberg_agent_id: '3815'
+    url: http://www.gutenberg.org/2009/agents/3815
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Maria_Williams
+creator:
+  author:
+    agent_name: Saint-Pierre, Bernardin de
+    aliases:
+    - Saint-Pierre, Jacques Henri Bernardin de
+    - St. Pierre, Bernardin de (Saint-Pierre)
+    - De Saint-Pierre, Bernardin
+    birthdate: 1737
+    deathdate: 1814
+    gutenberg_agent_id: '825'
+    url: http://www.gutenberg.org/2009/agents/825
+    wikipedia: http://en.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre
+description: "Paul et Virginie (or Paul and Virginia) is a novel by Jacques-Henri\
+  \ Bernardin de Saint-Pierre, first published in 1788. The novel's title characters\
+  \ are friends since birth who fall in love. The story is set on the island of Mauritius\
+  \ under French rule, then named Île de France. Written on the eve of the French\
+  \ Revolution, the novel is recognized as Bernardin's finest work. It records the\
+  \ fate of a child of nature corrupted by the artificial sentimentality of the French\
+  \ upper classes in the late eighteenth century. Bernardin de Saint-Pierre lived\
+  \ on the island for a time and based part of the novel on a shipwreck he witnessed\
+  \ there.\nBernardin de Saint-Pierre's novel criticizes the social class divisions\
+  \ found in eighteenth-century French society. He describes the perfect equality\
+  \ of social relations on Mauritius, whose inhabitants share their possessions, have\
+  \ equal amounts of land, and all work to cultivate it. They live in harmony, without\
+  \ violence or unrest. The author's beliefs echo those of Enlightenment philosophers\
+  \ such as Jean-Jacques Rousseau. He argues for the emancipation of slaves. He was\
+  \ a friend of Mahé de La Bourdonnais, the governor of Mauritius, who appears in\
+  \ the novel providing training and encouragement for the island's natives. Although\
+  \ Paul and Virginie own slaves, they appreciate their labour and do not treat them\
+  \ badly. When other slaves in the novel are mistreated, the book's heroes confront\
+  \ the cruel masters.\nThe novel presents an Enlightenment view of religion: that\
+  \ God, or \"Providence,\" has designed a world that is harmonious and pleasing.\
+  \ The characters of Paul et Virginie live off the land without needing technology\
+  \ or man-made interference. For instance, they tell time by observing the shadows\
+  \ of the trees. One critic noted that Bernadin de Saint-Pierre \"admired the forethought\
+  \ which ensured that dark-coloured fleas should be conspicuous on white skin\",\
+  \ believing \"that the earth was designed for man’s terrestrial happiness and convenience\"\
+  .\nThomas Carlyle in The French Revolution: A History, wrote: \"[It is a novel in\
+  \ which] there rises melodiously, as it were, the wail of a moribund world: everywhere\
+  \ wholesome Nature in unequal conflict with diseased, perfidious art; cannot escape\
+  \ from it in the lowest hut, in the remotest island of the sea.\"\nThe novel's fame\
+  \ was such that when the participants at the Versailles Peace Conference in 1920\
+  \ considered the status of Mauritius, the New York Times headlined its coverage:\n\
+  \n\"Sentimental Domain\"\nIsland of Mauritius, Scene of Paul et Virginie, Seeks\
+  \ Return to French Control\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10859'
+  wikidata: Q2293012
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Charity -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Mauritius -- Fiction'
+- !lcsh 'Death -- Fiction'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- GITenberg
+title: Paul and Virginia from the French of J.B.H. de Saint Pierre
+url: http://www.gutenberg.org/ebooks/10859
+wikipedia:
+- https://eo.wikipedia.org/wiki/Pa%C5%ADlo_kaj_Virginio
+- https://nl.wikipedia.org/wiki/Paul_et_Virginie
+- https://pt.wikipedia.org/wiki/Paulo_e_Virg%C3%ADnia
+- https://pl.wikipedia.org/wiki/Pawe%C5%82_i_Wirginia
+- https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%88_%D9%88%DB%8C%D8%B1%DA%98%DB%8C%D9%86%DB%8C
+- https://fr.wikipedia.org/wiki/Paul_et_Virginie
+- https://es.wikipedia.org/wiki/Pablo_y_Virginia
+- https://en.wikipedia.org/wiki/Paul_et_Virginie
+- https://it.wikipedia.org/wiki/Paolo_e_Virginia_(romanzo)
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C_%D0%B8_%D0%92%D0%B8%D1%80%D0%B6%D0%B8%D0%BD%D0%B8
+- https://fr.wikisource.org/wiki/Paul_et_Virginie
