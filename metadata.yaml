@@ -1,5 +1,5 @@
 _repo: Paul-and-Virginia-from-the-French-of-J.B.H.-de-Saint-Pierre_10859
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Williams, Helen Maria
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3815'
     url: http://www.gutenberg.org/2009/agents/3815
     wikipedia: http://en.wikipedia.org/wiki/Helen_Maria_Williams
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saint-Pierre, Bernardin de
@@ -54,6 +57,8 @@ description: "Paul et Virginie (or Paul and Virginia) is a novel by Jacques-Henr
   \ considered the status of Mauritius, the New York Times headlined its coverage:\n\
   \n\"Sentimental Domain\"\nIsland of Mauritius, Scene of Paul et Virginie, Seeks\
   \ Return to French Control\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10859#Paul-and-Virginia-from-the-French-of-J.B.H.-de-Saint-Pierre
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
